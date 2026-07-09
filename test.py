@@ -40,6 +40,7 @@ COUNTRIES = {
     "France": "FRA",
     "Georgia": "GEO",
     "Germany": "DEU",
+    "Greece": "GRC",
     "Hungary": "HUN",
     "Indonesia": "IDN",
     "Iraq": "IRQ",
